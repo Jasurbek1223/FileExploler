@@ -1,0 +1,3549 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\3d.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\3d.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\abc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\abc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\actionscript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\actionscript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ada.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ada.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\adonis.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\adonis.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\advpl_include.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\advpl_include.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\advpl_prw.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\advpl_prw.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\advpl_ptm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\advpl_ptm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\advpl_tlpp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\advpl_tlpp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\android.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\android.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-component.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-component.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-directive.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-directive.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-guard.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-guard.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-pipe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-pipe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-resolver.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-resolver.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular-service.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular-service.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\angular.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\angular.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\antlr.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\antlr.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\apiblueprint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\apiblueprint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\apollo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\apollo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\applescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\applescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\appveyor.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\appveyor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\architecture.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\architecture.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\arduino.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\arduino.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\asciidoc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\asciidoc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\assembly.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\assembly.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\astro.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\astro.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\astyle.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\astyle.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\audio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\audio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\aurelia.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\aurelia.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\authors.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\authors.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\auto.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\auto.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\auto_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\auto_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\autohotkey.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\autohotkey.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\autoit.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\autoit.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\azure-pipelines.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\azure-pipelines.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\azure.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\azure.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\babel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\babel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ballerina.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ballerina.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bazel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bazel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bicep.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bicep.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\biome.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\biome.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bitbucket.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bitbucket.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bithound.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bithound.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\blink.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\blink.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\blink_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\blink_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\blitz.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\blitz.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bower.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bower.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\brainfuck.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\brainfuck.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\browserlist.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\browserlist.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\browserlist_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\browserlist_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\buck.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\buck.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bucklescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bucklescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\buildkite.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\buildkite.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bun.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bun.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\bun_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\bun_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\c.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\c.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cabal.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cabal.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\caddy.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\caddy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cadence.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cadence.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cake.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cake.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\capacitor.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\capacitor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\certificate.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\certificate.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\changelog.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\changelog.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\chess.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\chess.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\chess_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\chess_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\circleci.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\circleci.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\circleci_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\circleci_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\clojure.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\clojure.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cloudfoundry.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cloudfoundry.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cmake.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cmake.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\coala.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\coala.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cobol.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cobol.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\coconut.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\coconut.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\code-climate.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\code-climate.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\code-climate_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\code-climate_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\codecov.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\codecov.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\codeowners.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\codeowners.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\coffee.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\coffee.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\coldfusion.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\coldfusion.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\command.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\command.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\commitlint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\commitlint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\conduct.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\conduct.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\console.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\console.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\contributing.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\contributing.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cpp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cpp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\craco.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\craco.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\credits.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\credits.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\crystal.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\crystal.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\crystal_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\crystal_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\csharp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\csharp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\css-map.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\css-map.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\css.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\css.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cucumber.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cucumber.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cuda.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cuda.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\cypress.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\cypress.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\d.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\d.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dart.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dart.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dart_generated.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dart_generated.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\database.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\database.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\denizenscript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\denizenscript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\deno.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\deno.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\deno_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\deno_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dependabot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dependabot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dhall.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dhall.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\diff.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\diff.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dinophp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dinophp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\disc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\disc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\django.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\django.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\docker.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\docker.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\document.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\document.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dotjs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dotjs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\drawio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\drawio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\drone.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\drone.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\drone_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\drone_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\dune.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\dune.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\edge.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\edge.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\editorconfig.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\editorconfig.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ejs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ejs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\elixir.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\elixir.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\elm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\elm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\email.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\email.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ember.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ember.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\erlang.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\erlang.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\esbuild.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\esbuild.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\eslint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\eslint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\exe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\exe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\fastlane.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\fastlane.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\favicon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\figma.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\figma.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\firebase.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\firebase.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\flash.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\flash.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\flow.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\flow.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-admin-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-admin-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-admin.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-admin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-android-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-android-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-android.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-android.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-angular-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-angular-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-angular.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-angular.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-animation-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-animation-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-animation.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-animation.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ansible-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ansible-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ansible.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ansible.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-api-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-api-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-api.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-api.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-apollo-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-apollo-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-apollo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-apollo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-app-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-app-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-app.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-app.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-archive-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-archive-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-archive.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-archive.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-audio-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-audio-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-audio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-audio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-aurelia-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-aurelia-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-aurelia.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-aurelia.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-aws-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-aws-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-aws.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-aws.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-azure-pipelines-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-azure-pipelines-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-azure-pipelines.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-azure-pipelines.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-base-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-base-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-base.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-base.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-batch-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-batch-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-batch.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-batch.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-benchmark-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-benchmark-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-benchmark.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-benchmark.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-bower-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-bower-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-bower.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-bower.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-buildkite-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-buildkite-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-buildkite.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-buildkite.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cart-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cart-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cart.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cart.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-changesets-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-changesets-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-changesets.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-changesets.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ci-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ci-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ci.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ci.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-circleci-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-circleci-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-circleci.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-circleci.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-class-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-class-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-class.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-class.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-client-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-client-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-client.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-client.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cluster-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cluster-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cluster.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cluster.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cobol-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cobol-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cobol.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cobol.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-command-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-command-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-command.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-command.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-components-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-components-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-components.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-components.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-config-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-config-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-config.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-config.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-connection-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-connection-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-connection.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-connection.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-constant-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-constant-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-constant.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-constant.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-container-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-container-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-container.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-container.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-content-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-content-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-content.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-content.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-context-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-context-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-context.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-context.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-contract-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-contract-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-contract.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-contract.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-controller-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-controller-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-controller.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-controller.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-core-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-core-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-core.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-core.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-coverage-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-coverage-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-coverage.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-coverage.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-css-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-css-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-css.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-css.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-custom-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-custom-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-custom.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-custom.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cypress-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cypress-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-cypress.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-cypress.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-database-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-database-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-database.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-database.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-debug-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-debug-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-debug.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-debug.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-decorators-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-decorators-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-decorators.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-decorators.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-delta-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-delta-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-delta.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-delta.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-dist-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-dist-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-dist.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-dist.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-docker-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-docker-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-docker.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-docker.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-docs-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-docs-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-docs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-docs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-download-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-download-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-download.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-download.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-dump-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-dump-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-dump.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-dump.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-enum-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-enum-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-enum.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-enum.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-environment-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-environment-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-environment.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-environment.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-error-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-error-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-error.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-error.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-event-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-event-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-event.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-event.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-examples-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-examples-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-examples.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-examples.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-expo-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-expo-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-expo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-expo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-export-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-export-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-export.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-export.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-fastlane-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-fastlane-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-fastlane.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-fastlane.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-firebase-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-firebase-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-firebase.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-firebase.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-flow-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-flow-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-flow.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-flow.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-font-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-font-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-font.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-font.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-functions-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-functions-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-functions.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-functions.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gamemaker-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gamemaker-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gamemaker.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gamemaker.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-generator-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-generator-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-generator.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-generator.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-git-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-git-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-git.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-git.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-github-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-github-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-github.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-github.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gitlab-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gitlab-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gitlab.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gitlab.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-global-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-global-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-global.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-global.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-godot-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-godot-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-godot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-godot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gradle-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gradle-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gradle.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gradle.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-graphql-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-graphql-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-graphql.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-graphql.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-guard-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-guard-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-guard.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-guard.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gulp-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gulp-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-gulp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-gulp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-helper-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-helper-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-helper.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-helper.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-home-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-home-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-home.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-home.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-hook-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-hook-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-hook.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-hook.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-husky-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-husky-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-husky.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-husky.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-i18n-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-i18n-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-i18n.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-i18n.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-images-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-images-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-images.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-images.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-import-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-import-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-import.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-import.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-include-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-include-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-include.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-include.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-intellij-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-intellij-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-intellij-open_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-intellij-open_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-intellij.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-intellij.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-intellij_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-intellij_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-interface-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-interface-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-interface.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-interface.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ios-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ios-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ios.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ios.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-java-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-java-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-java.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-java.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-javascript-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-javascript-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-javascript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-javascript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-jinja-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-jinja-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-jinja-open_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-jinja-open_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-jinja.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-jinja.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-jinja_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-jinja_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-job-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-job-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-job.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-job.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-json-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-json-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-json.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-json.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-keys-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-keys-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-keys.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-keys.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-kubernetes-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-kubernetes-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-kubernetes.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-kubernetes.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-layout-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-layout-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-layout.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-layout.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-less-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-less-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-less.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-less.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-lib-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-lib-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-lib.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-lib.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-linux-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-linux-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-linux.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-linux.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-log-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-log-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-log.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-log.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-lua-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-lua-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-lua.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-lua.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-macos-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-macos-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-macos.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-macos.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mail-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mail-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mail.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mail.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mappings-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mappings-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mappings.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mappings.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-markdown-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-markdown-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-markdown.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-markdown.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mercurial-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mercurial-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mercurial.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mercurial.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-messages-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-messages-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-messages.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-messages.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-meta-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-meta-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-meta.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-meta.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-middleware-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-middleware-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-middleware.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-middleware.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mjml-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mjml-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mjml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mjml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mobile-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mobile-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mobile.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mobile.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mock-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mock-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mock.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mock.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mojo-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mojo-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-mojo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-mojo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-netlify-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-netlify-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-netlify.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-netlify.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-next-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-next-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-next.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-next.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-actions-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-actions-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-actions.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-actions.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-effects-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-effects-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-effects.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-effects.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-entities-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-entities-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-entities.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-entities.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-reducer-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-reducer-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-reducer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-reducer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-selectors-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-selectors-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-selectors.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-selectors.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-state-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-state-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-state.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-state.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-store-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-store-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-ngrx-store.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-ngrx-store.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-node-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-node-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-node.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-node.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-nuxt-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-nuxt-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-nuxt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-nuxt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-other-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-other-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-other.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-other.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-packages-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-packages-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-packages.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-packages.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-pdf-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-pdf-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-pdf.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-pdf.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-php-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-php-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-php.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-php.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-phpmailer-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-phpmailer-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-phpmailer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-phpmailer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-pipe-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-pipe-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-pipe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-pipe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-plastic-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-plastic-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-plastic.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-plastic.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-plugin-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-plugin-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-plugin.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-plugin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-prisma-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-prisma-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-prisma.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-prisma.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-private-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-private-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-private.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-private.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-project-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-project-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-project.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-project.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-proto-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-proto-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-proto.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-proto.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-public-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-public-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-public.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-public.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-python-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-python-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-python.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-python.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-quasar-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-quasar-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-quasar.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-quasar.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-queue-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-queue-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-queue.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-queue.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-react-components-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-react-components-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-react-components.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-react-components.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-actions-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-actions-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-actions.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-actions.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-reducer-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-reducer-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-reducer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-reducer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-selector-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-selector-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-selector.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-selector.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-store-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-store-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-redux-store.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-redux-store.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-resolver-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-resolver-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-resolver.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-resolver.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-resource-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-resource-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-resource.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-resource.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-review-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-review-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-review.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-review.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-robot-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-robot-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-robot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-robot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-routes-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-routes-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-routes.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-routes.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-rules-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-rules-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-rules.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-rules.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-sass-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-sass-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-sass.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-sass.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-scala-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-scala-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-scala.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-scala.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-scripts-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-scripts-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-scripts.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-scripts.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-secure-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-secure-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-secure.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-secure.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-server-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-server-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-server.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-server.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-serverless-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-serverless-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-serverless.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-serverless.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-shader-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-shader-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-shader.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-shader.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-shared-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-shared-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-shared.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-shared.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-src-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-src-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-src.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-src.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stack-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stack-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stack.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stencil-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stencil-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stencil.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stencil.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-storybook-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-storybook-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-storybook.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-storybook.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stylus-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stylus-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-stylus.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-stylus.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-sublime-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-sublime-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-sublime.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-sublime.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-supabase-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-supabase-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-supabase.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-supabase.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-svelte-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-svelte-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-svelte.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-svelte.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-svg-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-svg-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-svg.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-svg.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-syntax-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-syntax-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-syntax.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-syntax.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-target-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-target-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-target.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-target.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-tasks-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-tasks-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-tasks.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-tasks.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-temp-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-temp-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-temp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-temp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-template-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-template-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-template.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-template.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-terraform-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-terraform-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-terraform.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-terraform.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-test-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-test-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-test.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-test.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-theme-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-theme-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-theme.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-theme.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-tools-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-tools-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-tools.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-tools.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-typescript-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-typescript-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-typescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-typescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-unity-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-unity-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-unity.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-unity.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-update-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-update-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-update.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-update.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-upload-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-upload-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-upload.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-upload.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-utils-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-utils-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-utils.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-utils.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vercel-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vercel-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vercel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vercel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-verdaccio-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-verdaccio-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-verdaccio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-verdaccio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-video-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-video-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-video.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-video.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-views-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-views-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-views.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-views.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vm-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vm-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vscode-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vscode-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vscode.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vscode.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vue-directives-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vue-directives-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vue-directives.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vue-directives.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vue-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vue-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vue.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vue.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vuepress-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vuepress-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vuepress.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vuepress.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vuex-store-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vuex-store-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-vuex-store.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-vuex-store.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-wakatime-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-wakatime-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-wakatime.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-wakatime.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-webpack-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-webpack-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-webpack.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-webpack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-windows-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-windows-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-windows.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-windows.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-wordpress-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-wordpress-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-wordpress.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-wordpress.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-yarn-open.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-yarn-open.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder-yarn.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder-yarn.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\folder.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\folder.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\font.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\font.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\forth.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\forth.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\fortran.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\fortran.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\foxpro.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\foxpro.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\fsharp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\fsharp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\fusebox.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\fusebox.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gamemaker.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gamemaker.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gatsby.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gatsby.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gcp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gcp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gemfile.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gemfile.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gemini.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gemini.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\git.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\git.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gitlab.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gitlab.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gitpod.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gitpod.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gleam.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gleam.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\go-mod.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\go-mod.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\go.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\go.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\go_gopher.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\go_gopher.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\godot-assets.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\godot-assets.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\godot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\godot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gradle.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gradle.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\grain.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\grain.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\graphcool.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\graphcool.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\graphql.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\graphql.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gridsome.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gridsome.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\groovy.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\groovy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\grunt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\grunt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\gulp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\gulp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\h.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\h.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hack.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\haml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\haml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\handlebars.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\handlebars.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hardhat.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hardhat.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\haskell.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\haskell.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\haxe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\haxe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hcl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hcl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hcl_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hcl_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\helm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\helm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\heroku.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\heroku.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hex.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hex.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\horusec.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\horusec.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\hpp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\hpp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\html.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\html.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\http.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\http.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\husky.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\husky.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\i18n.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\i18n.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\idris.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\idris.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ifanr-cloud.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ifanr-cloud.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\image.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\image.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\imba.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\imba.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ionic.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ionic.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\istanbul.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\istanbul.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jar.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jar.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\java.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\java.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\javaclass.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\javaclass.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\javascript-map.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\javascript-map.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\javascript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\javascript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jenkins.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jenkins.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jest.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jest.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jinja.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jinja.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jinja_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jinja_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jsconfig.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jsconfig.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\json.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\json.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\julia.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\julia.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\jupyter.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\jupyter.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\karma.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\karma.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\key.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\key.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\kivy.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\kivy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\kl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\kl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\kotlin.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\kotlin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\kusto.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\kusto.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\laravel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\laravel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lerna.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lerna.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\less.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\less.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lib.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lib.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lighthouse.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lighthouse.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lilypond.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lilypond.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\liquid.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\liquid.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lisp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lisp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\livescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\livescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lock.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lock.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\log.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\log.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lolcode.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lolcode.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\lua.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\lua.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\makefile.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\makefile.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\markdown.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\markdown.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\markojs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\markojs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mathematica.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mathematica.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\matlab.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\matlab.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\maven.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\maven.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mdsvex.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mdsvex.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mdx.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mdx.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mercurial.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mercurial.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\merlin.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\merlin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mermaid.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mermaid.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\meson.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\meson.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\minecraft.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\minecraft.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mjml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mjml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mocha.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mocha.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\modernizr.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\modernizr.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mojo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mojo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\moonscript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\moonscript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\mxml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\mxml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nano-staged.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nano-staged.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nano-staged_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nano-staged_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ndst.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ndst.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-controller.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-controller.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-decorator.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-decorator.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-filter.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-filter.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-gateway.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-gateway.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-guard.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-guard.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-middleware.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-middleware.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-module.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-module.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-pipe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-pipe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-resolver.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-resolver.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest-service.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest-service.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nest.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nest.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\netlify.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\netlify.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\netlify_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\netlify_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\next.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\next.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\next_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\next_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nginx.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nginx.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-actions.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-actions.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-effects.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-effects.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-entity.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-entity.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-reducer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-reducer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-selectors.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-selectors.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ngrx-state.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ngrx-state.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nim.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nim.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nix.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nix.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nodejs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nodejs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nodejs_alt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nodejs_alt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nodemon.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nodemon.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\npm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\npm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nrwl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nrwl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nuget.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nuget.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nunjucks.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nunjucks.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\nuxt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\nuxt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\objective-c.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\objective-c.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\objective-cpp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\objective-cpp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ocaml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ocaml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\odin.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\odin.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\opa.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\opa.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\opam.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\opam.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\otne.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\otne.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\panda.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\panda.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\parcel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\parcel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pascal.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pascal.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pawn.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pawn.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pdf.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pdf.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\percy.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\percy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\perl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\perl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\php-cs-fixer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\php-cs-fixer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\php.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\php.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\php_elephant.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\php_elephant.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\php_elephant_pink.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\php_elephant_pink.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\phpunit.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\phpunit.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pinejs.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pinejs.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pipeline.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pipeline.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\plastic.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\plastic.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\playwright.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\playwright.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\plop.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\plop.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pnpm.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pnpm.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pnpm_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pnpm_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\poetry.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\poetry.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\postcss.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\postcss.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\posthtml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\posthtml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\powerpoint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\powerpoint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\powershell.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\powershell.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\prettier.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\prettier.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\prisma.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\prisma.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\processing.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\processing.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\prolog.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\prolog.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\proto.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\proto.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\protractor.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\protractor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\pug.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\pug.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\puppet.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\puppet.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\purescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\purescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\python-misc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\python-misc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\python.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\python.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\qsharp.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\qsharp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\quasar.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\quasar.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\qwik.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\qwik.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\r.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\r.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\racket.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\racket.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\raml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\raml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\razor.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\razor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\react.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\react.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\react_ts.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\react_ts.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\readme.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\readme.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\reason.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\reason.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\red.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\red.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\redux-action.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\redux-action.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\redux-reducer.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\redux-reducer.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\redux-selector.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\redux-selector.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\redux-store.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\redux-store.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\remix.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\remix.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\remix_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\remix_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\renovate.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\renovate.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\replit.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\replit.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rescript-interface.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rescript-interface.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\restql.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\restql.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\riot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\riot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\roadmap.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\roadmap.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\roblox.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\roblox.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\robot.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\robot.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\robots.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\robots.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rollup.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rollup.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rome.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rome.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\routing.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\routing.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rubocop.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rubocop.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rubocop_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rubocop_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\ruby.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\ruby.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\rust.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\rust.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\salesforce.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\salesforce.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\san.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\san.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sas.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sas.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sass.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sass.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sbt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sbt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\scala.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\scala.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\scheme.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\scheme.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\search.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\search.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\semantic-release.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\semantic-release.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\semantic-release_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\semantic-release_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\semgrep.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\semgrep.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sentry.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sentry.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sequelize.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sequelize.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\serverless.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\serverless.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\settings.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\settings.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\shader.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\shader.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\shaderlab.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\shaderlab.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\silverstripe.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\silverstripe.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\siyuan.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\siyuan.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sketch.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sketch.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\slim.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\slim.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\slug.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\slug.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\smarty.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\smarty.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\snowpack.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\snowpack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\snowpack_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\snowpack_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\snyk.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\snyk.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\solidity.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\solidity.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sonarcloud.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sonarcloud.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\spwn.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\spwn.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stan.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stan.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\steadybit.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\steadybit.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stencil.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stencil.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stitches.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stitches.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stitches_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stitches_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\storybook.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\storybook.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stryker.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stryker.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stylable.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stylable.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stylelint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stylelint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stylelint_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stylelint_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\stylus.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\stylus.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\sublime.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\sublime.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\supabase.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\supabase.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\svelte.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\svelte.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\svg.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\svg.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\svgo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\svgo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\svgr.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\svgr.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\swc.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\swc.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\swift.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\swift.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\table.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\table.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tailwindcss.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tailwindcss.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tauri.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tauri.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tcl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tcl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\teal.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\teal.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\templ.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\templ.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\template.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\template.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\terraform.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\terraform.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\test-js.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\test-js.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\test-jsx.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\test-jsx.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\test-ts.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\test-ts.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tex.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tex.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\textlint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\textlint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tilt.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tilt.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tldraw.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tldraw.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tldraw_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tldraw_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tobi.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tobi.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tobimake.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tobimake.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\todo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\todo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\travis.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\travis.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tree.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tree.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tsconfig.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tsconfig.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\tune.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\tune.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\turborepo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\turborepo.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\turborepo_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\turborepo_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\twig.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\twig.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\twine.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\twine.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\typescript-def.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\typescript-def.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\typescript.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\typescript.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\typst.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\typst.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\uml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\uml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\uml_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\uml_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\unocss.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\unocss.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\url.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\url.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vagrant.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vagrant.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vala.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vala.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\velocity.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\velocity.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vercel.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vercel.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vercel_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vercel_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\verdaccio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\verdaccio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\verilog.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\verilog.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vfl.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vfl.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\video.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\video.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vim.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vim.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\virtual.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\virtual.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\visualstudio.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\visualstudio.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vite.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vite.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vitest.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vitest.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vlang.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vlang.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vscode.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vscode.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vue-config.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vue-config.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vue.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vue.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\vuex-store.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\vuex-store.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\wakatime.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\wakatime.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\wakatime_light.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\wakatime_light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\wallaby.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\wallaby.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\watchman.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\watchman.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\webassembly.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\webassembly.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\webhint.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\webhint.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\webpack.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\webpack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\wepy.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\wepy.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\werf.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\werf.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\windicss.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\windicss.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\wolframlanguage.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\wolframlanguage.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\word.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\word.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\xaml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\xaml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\xml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\xml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\yaml.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\yaml.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\yang.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\yang.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\yarn.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\yarn.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\zig.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\zig.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Assets\\Icons\\zip.svg",
+      "PackagePath": "staticwebassets\\Assets\\Icons\\zip.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (2)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (2)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (2)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (2)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (3)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (3)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (3)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (3)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (4)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (4)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (4)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (4)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (5)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (5)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (5)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (5)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (6)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (6)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (6)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (6)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (7)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (7)\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy (7)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy (7)\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books - Copy\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books - Copy\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf",
+      "PackagePath": "staticwebassets\\Books\\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\Books\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\Books\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf",
+      "PackagePath": "staticwebassets\\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\template.svg",
+      "PackagePath": "staticwebassets\\template.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\wwwroot\\test",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FileExplorer.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FileExplorer.Api.props",
+      "PackagePath": "build\\FileExplorer.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FileExplorer.Api.props",
+      "PackagePath": "buildMultiTargeting\\FileExplorer.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FileExplorer.Api.props",
+      "PackagePath": "buildTransitive\\FileExplorer.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

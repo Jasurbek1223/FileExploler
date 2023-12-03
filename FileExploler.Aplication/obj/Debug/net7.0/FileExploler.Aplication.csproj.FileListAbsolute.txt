@@ -1,0 +1,12 @@
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.csproj.AssemblyReference.cache
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.AssemblyInfoInputs.cache
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.AssemblyInfo.cs
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.csproj.CoreCompileInputs.cache
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.deps.json
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.dll
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.dll
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\refint\FileExploler.Aplication.dll
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\ref\FileExploler.Aplication.dll
