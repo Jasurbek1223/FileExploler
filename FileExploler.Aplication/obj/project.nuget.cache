@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iyoURTwPhKFEy2wY8hT9/TMrgOkjs34EcEzVRg7URvIaSXnXu/00hAetQPk+6Kb5NhMLj9C+g+Sj5+rR7FiahQ==",
+  "dgSpecHash": "P86p7F9KYF/+yOfLV6/tL0WvIlPWLS0uMslzkQXaVLTI/7fneVGV9+0epk6U/Lp3JtDbmWiBKh2764gLoV6rWg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
+  "projectFilePath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

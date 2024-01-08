@@ -10,3 +10,16 @@ D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\refint\FileExploler.Aplication.dll
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.pdb
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Aplication\obj\Debug\net7.0\ref\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.deps.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\bin\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.csproj.AssemblyReference.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.AssemblyInfoInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.AssemblyInfo.cs
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.csproj.CoreCompileInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.sourcelink.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\refint\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Aplication\obj\Debug\net7.0\ref\FileExploler.Aplication.dll

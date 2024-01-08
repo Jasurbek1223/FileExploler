@@ -13,3 +13,19 @@ D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Infrastructure\obj\Debug
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Infrastructure\obj\Debug\net7.0\refint\FileExploler.Infrastructure.dll
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.pdb
 D:\Projects\Test.FileExploler\FileExplorer\FileExploler.Infrastructure\obj\Debug\net7.0\ref\FileExploler.Infrastructure.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\bin\Debug\net7.0\FileExploler.Infrastructure.deps.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\bin\Debug\net7.0\FileExploler.Infrastructure.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\bin\Debug\net7.0\FileExploler.Infrastructure.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\bin\Debug\net7.0\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\bin\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.csproj.AssemblyReference.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.AssemblyInfoInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.AssemblyInfo.cs
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.sourcelink.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.csproj.CopyComplete
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\refint\FileExploler.Infrastructure.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\FileExploler.Infrastructure.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExploler.Infrastructure\obj\Debug\net7.0\ref\FileExploler.Infrastructure.dll

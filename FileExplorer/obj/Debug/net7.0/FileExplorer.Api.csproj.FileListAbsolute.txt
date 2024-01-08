@@ -40,3 +40,47 @@ D:\Projects\Test.FileExploler\FileExplorer\FileExplorer\obj\Debug\net7.0\refint\
 D:\Projects\Test.FileExploler\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.pdb
 D:\Projects\Test.FileExploler\FileExplorer\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.genruntimeconfig.cache
 D:\Projects\Test.FileExploler\FileExplorer\FileExplorer\obj\Debug\net7.0\ref\FileExplorer.Api.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\appsettings.Development.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\appsettings.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.staticwebassets.runtime.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.exe
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.deps.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.runtimeconfig.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExplorer.Api.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\AutoMapper.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExploler.Aplication.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExploler.Infrastructure.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExploler.Infrastructure.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\bin\Debug\net7.0\FileExploler.Aplication.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.csproj.AssemblyReference.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.AssemblyInfoInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.AssemblyInfo.cs
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.csproj.CoreCompileInputs.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.sourcelink.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets.build.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets.development.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets\msbuild.FileExplorer.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets\msbuild.build.FileExplorer.Api.props
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FileExplorer.Api.props
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FileExplorer.Api.props
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\scopedcss\bundle\FileExplorer.Api.styles.css
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.csproj.CopyComplete
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\refint\FileExplorer.Api.dll
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.pdb
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\FileExplorer.Api.genruntimeconfig.cache
+D:\Najot talim\FileExploler(Jasur)Backend\FileExploler\FileExplorer\obj\Debug\net7.0\ref\FileExplorer.Api.dll

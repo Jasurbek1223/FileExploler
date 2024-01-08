@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj": {}
+    "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj": {
+    "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
+        "projectUniqueName": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
         "projectName": "FileExploler.Aplication",
-        "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
+        "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\obj\\",
+        "outputPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,20 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -77,14 +63,14 @@
         }
       }
     },
-    "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
+    "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
         "projectName": "FileExploler.Infrastructure",
-        "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
+        "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\obj\\",
+        "outputPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -99,8 +85,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj": {
-                "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Aplication\\FileExploler.Aplication.csproj"
+              "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj": {
+                "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Aplication\\FileExploler.Aplication.csproj"
               }
             }
           }
@@ -135,20 +121,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -158,14 +130,14 @@
         }
       }
     },
-    "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj": {
+    "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj",
+        "projectUniqueName": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj",
         "projectName": "FileExplorer.Api",
-        "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj",
+        "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\obj\\",
+        "outputPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -180,8 +152,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
-                "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj"
+              "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
+                "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj"
               }
             }
           }
@@ -220,24 +192,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

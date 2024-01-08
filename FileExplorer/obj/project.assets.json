@@ -936,11 +936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj",
+      "projectUniqueName": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj",
       "projectName": "FileExplorer.Api",
-      "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\FileExplorer.Api.csproj",
+      "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\FileExplorer.Api.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExplorer\\obj\\",
+      "outputPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExplorer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -955,8 +955,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj"
+            "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj": {
+              "projectPath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj"
             }
           }
         }
@@ -995,24 +995,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.14, 7.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

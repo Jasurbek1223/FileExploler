@@ -1,18 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IBGEDsTcwQqQ3b3iXKbu5hlm9oR1dLIv7mcVgA9idFP+rRv5WdFFDun5MHvWOwD9rGVtHJ/EcHg5bP3HqAYe/A==",
+  "dgSpecHash": "HbFWUSiVNWzHNHb0BW9fYBiqhmRQsDdDqO45i89bgNefaRw8+oN33sChfh2NfeQ1q7gLkuDbffvxg5xe1fWR2A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test.FileExploler\\FileExplorer\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
+  "projectFilePath": "D:\\Najot talim\\FileExploler(Jasur)Backend\\FileExploler\\FileExploler.Infrastructure\\FileExploler.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

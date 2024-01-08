@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileExplorer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e44beb01ba7797f40342025efefa30ca24be84b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileExplorer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileExplorer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
